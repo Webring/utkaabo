@@ -24,8 +24,8 @@ docker run -d --name vasilev-page-without-comments-container -p 80:80 webring/pa
 Скачать
 
 ```shell
-git clone https://github.com/Webring/webring.git
-cd webring
+git clone https://github.com/Webring/utkaabo.git
+cd utkaabo
 ```
 
 Запуск
